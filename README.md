@@ -109,7 +109,7 @@ Prerequisites
 
 1. Clone the Repository
 
-git clone https://github.com/Prince94-p/studenthub.git
+git clone https://github.com/shreypatell13/studenthub.git
 
 2. Navigate to the Project Directory
 
@@ -167,11 +167,11 @@ These are potential enhancements and should not be considered implemented featur
 
 👨‍💻 Developer
 
-Prince Patel
+Shrey Patel
 
 B.Tech — Computer Engineering
 
-GitHub: @Prince94-p
+GitHub: @shreypatell13
 
 Project Repository: StudentHub
 
@@ -197,4 +197,4 @@ If you find this project useful, consider starring the repository on GitHub.
 
 ⸻
 
-Built with ❤️ by Prince Patel
+Built with ❤️ by Shrey Patel
